@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1574203010 source:c:\users\alumno\desktop\clase 22\filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1573541303 c:\users\alumno\desktop\clase 22\filter\linkedlist.h
+
+1574211656 source:c:\users\alumno\desktop\clase 22\filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Persona.h"
+
+1574209528 c:\users\alumno\desktop\clase 22\filter\parser.h
+
+1574211310 c:\users\alumno\desktop\clase 22\filter\persona.h
+
+1574210556 source:c:\users\alumno\desktop\clase 22\filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
+1574211160 source:c:\users\alumno\desktop\clase 22\filter\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
+1574638436 source:c:\users\fer\desktop\clase 23\filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1573541303 c:\users\fer\desktop\clase 23\filter\linkedlist.h
+
+1574639379 source:c:\users\fer\desktop\clase 23\filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Persona.h"
+
+1574209528 c:\users\fer\desktop\clase 23\filter\parser.h
+
+1574211310 c:\users\fer\desktop\clase 23\filter\persona.h
+
+1574639654 source:c:\users\fer\desktop\clase 23\filter\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
+1574639532 source:c:\users\fer\desktop\clase 23\filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Persona.h"
+
